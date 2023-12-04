@@ -15,7 +15,8 @@ mkdir ~/Pictures/Advantaged
 ```
 sudo mkdir /usr/share/wallpapers/Advantaged/
 
-sudo cp ~/Pictures/Advantaged/Advantaged_3840x2160_181a1b.jpg /usr/share/wallpapers/Advantaged/Advantaged4K.jpg
+sudo cp ~/Pictures/Advantaged/Advantaged_3840x2160_181a1b.jpg \
+/usr/share/wallpapers/Advantaged/Advantaged4K.jpg
 ```
 
 
