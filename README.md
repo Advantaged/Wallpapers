@@ -13,16 +13,10 @@ mkdir ~/Pictures/Advantaged
 ```
 - 1.4. If your machine has multiple users & you want that every user is able to "install" these/those wallpapers, than are many folder at your choice, e.g.:
 ```
+sudo mkdir /usr/share/wallpapers/Advantaged/
 
+sudo cp ~/Pictures/Advantaged/Advantaged_3840x2160_181a1b.jpg /usr/share/wallpapers/Advantaged/Advantaged4K.jpg
 ```
-- ee
-- ee
-- ee
-- ee
-- ee
-- ee
-
-
 
 
 - [x] **Done & Enjoy !** :wink:
